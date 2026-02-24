@@ -76,7 +76,6 @@
 <img width="1471" height="626" alt="image" src="https://github.com/user-attachments/assets/0a9a7f03-b4be-488d-b6e9-b4cd33d0363e" />
 
 
-> 📌 Add your screenshots inside `/screenshots` folder and update file names if needed.
 
 ---
 
