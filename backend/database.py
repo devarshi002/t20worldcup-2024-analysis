@@ -1,8 +1,11 @@
 from pymongo import MongoClient
+import os
+from dotenv import load_dotenv
 
-MONGO_URL = "mongodb://localhost:27017"
+load_dotenv()
 
-client = MongoClient(MONGO_URL)
-db = client["worldcupDB"]
+MONGO_URI = os.getenv("MONGO_URI")
+
+client = MongoClient(MONGO_URI)
+db = client["worldcup"]
 matches_collection = db["matches"]
-
