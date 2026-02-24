@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-* 🚀 Frontend: https://t20worldcup-2024-analysis-f1twymlg8-devarshis-projects-12eb944d.vercel.app/
+* 🚀 Frontend: [https://t20worldcup-2024-analysis-f1twymlg8-devarshis-projects-12eb944d.vercel.app/](https://t20worldcup-2024-analysis.vercel.app/)
 * ⚙️ Backend API: https://t20worldcup-2024-analysis-1.onrender.com/
 
 ---
