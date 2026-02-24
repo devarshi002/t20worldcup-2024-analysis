@@ -1,6 +1,6 @@
 # 🏏 Cricket World Cup Analytics Dashboard
 
-> A full-stack modern analytics dashboard to explore ICC T20 World Cup match data with interactive charts, filters, and player insights.
+> A full-stack modern analytics dashboard to explore ICC T20 World Cup 2024 match data with interactive charts, filters, and player insights.
 
 <img width="1883" height="445" alt="image" src="https://github.com/user-attachments/assets/b7c3f1ab-0362-4ff3-b9f8-c5cadc39c81f" />
 
