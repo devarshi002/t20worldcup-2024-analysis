@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://127.0.0.1:8000",
+  baseURL: "https://t20worldcup-2024-analysis-1.onrender.com/",
 });
 
 export const fetchMatches = (params) => API.get("/matches", { params });
