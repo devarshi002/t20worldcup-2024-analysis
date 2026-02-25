@@ -78,3 +78,7 @@ def get_players():
 def db_test():
     count = matches_collection.count_documents({})
     return {"mongodb_connected": True, "total_records_in_db": count}
+
+@app.get("/ping")
+def ping():
+    return {"status": "alive"}
